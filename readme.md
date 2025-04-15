@@ -15,3 +15,4 @@ Consigli del giorno:
 
 ## Uman Code
 
+1) Non c
