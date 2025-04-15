@@ -1,3 +1,5 @@
+// Calcola tutte le tabelline nell'intervallo dei nueri dati
+
 console.log(`Quale tabellina vuoi conoscere?`)
 
 let start = parseInt(prompt("Inserire Inzio"));
