@@ -1,4 +1,10 @@
-for (let n = 1; n <= 10; n++) {
+console.log(`Quale tabellina vuoi conoscere?`)
+
+let start = parseInt(prompt("Inserire Inzio"));
+let finish = parseInt(prompt("Inserire Fine"));
+
+
+for (let n = start; n <= finish; n++) {
 
     console.log(`Questa è a tabellina del ${n}`)
 
